@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>introducing ai</title>
+    <style>
+        body{
+            background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        }
+       .intro .in,.out
+        {
+            color:pink;
+            font-size:40px;
+            font-weight:bold;
+            margin-right:20px;
+        }
+        .para
+        {
+            font-size:20px;
+            font-weight:bold;
+            margin-left:20px;
+            margin-right:10px;
+            padding:20px 20px;
+        }
+        .sank:hover
+        {
+color:aqua;
+border-radius:20px;
+        }
+        </style>
+</head>
+<body>
+    <h1 class="intro">Open Ai</h1>
+    <h1 class="in">welcome to my ai technology</h1>
+    <h2 class="out">introducing esume builder app</h2>
+    <p class="para">We’ve trained a model called ai builder which interacts in a conversational way. The dialogue format makes it possible for ai builder to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.</p>
+<p class="para">Our mission is to ensure that artificial general intelligence—AI systems that are generally smarter than humans—benefits all of humanity.</p>
+<p>may generate wrong response</p>
+<a href=".html">
+<button class="sank">try resumebuilder </button></a>
+</body>
+</html>
